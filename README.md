@@ -40,21 +40,21 @@ RunMeQuick is a blazing-fast code execution platform that lets you run and test 
 5. **Open the app in your browser:**
 
     ```bash
-    http://localhost:3000
+    http://localhost:5173
 
 **Usage**
-- Sign In:
-  Log in to save and manage your code snippets.
-- Choose Language:
-  Select your preferred programming language.
-- Write Code:
-  Write or paste your code into the editor.
-- Execute Code:
-  Click "Execute Code" to run your code.
-- Cancel Execution (Optional):
-  If needed, click "Cancel" to stop code execution.
-- Review Results:
-  View the execution status and results.
+1. **Sign In:**
+- Log in to save and manage your code snippets.
+2. **Choose Language:**
+= Select your preferred programming language.
+3. **Write Code:**
+- Write or paste your code into the editor.
+4. **Execute Code:**aa
+- Click "Execute Code" to run your code.
+5. **Cancel Execution (Optional):**
+- If needed, click "Cancel" to stop code execution.
+6. **Review Results:**
+- View the execution status and results.
   
 **Technologies Used**
 - React

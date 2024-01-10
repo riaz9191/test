@@ -21,3 +21,55 @@ RunMeQuick is a blazing-fast code execution platform that lets you run and test 
 
    ```bash
    git clone https://github.com/riaz9191/runmequick.git
+
+2. **Navigate to the project directory:**
+
+   ```bash
+   cd runmequick
+
+3. **Install dependencies:**
+
+   ```bash
+   npm install
+
+4. **Start the development server:**
+
+    ```bash
+    npm run dev
+
+5. **Open the app in your browser:**
+
+    ```bash
+    http://localhost:3000
+
+****Usage****
+-Sign In:
+  Log in to save and manage your code snippets.
+-Choose Language:
+  Select your preferred programming language.
+-Write Code:
+  Write or paste your code into the editor.
+-Execute Code:
+  Click "Execute Code" to run your code.
+-Cancel Execution (Optional):
+  If needed, click "Cancel" to stop code execution.
+-Review Results:
+  View the execution status and results.
+  
+**Technologies Used**
+-React
+-Node.js
+-Firebase Authentication
+-Monaco Editor
+
+Contributions Welcome
+We welcome contributions! Feel free to fork the repository and submit pull requests.
+
+License
+This project is licensed under the MIT License.
+
+<p align="center">
+  <a href="https://github.com/riaz9191/runmequick" target="_blank">
+    <img src="https://img.shields.io/badge/View%20on%20GitHub-%23000000.svg?style=for-the-badge&logo=github" alt="View on GitHub">
+  </a>
+</p>

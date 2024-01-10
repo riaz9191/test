@@ -49,7 +49,7 @@ RunMeQuick is a blazing-fast code execution platform that lets you run and test 
 = Select your preferred programming language.
 3. **Write Code:**
 - Write or paste your code into the editor.
-4. **Execute Code:**aa
+4. **Execute Code:**
 - Click "Execute Code" to run your code.
 5. **Cancel Execution (Optional):**
 - If needed, click "Cancel" to stop code execution.

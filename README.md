@@ -42,30 +42,30 @@ RunMeQuick is a blazing-fast code execution platform that lets you run and test 
     ```bash
     http://localhost:3000
 
-****Usage****
--Sign In:
+**Usage**
+- Sign In:
   Log in to save and manage your code snippets.
--Choose Language:
+- Choose Language:
   Select your preferred programming language.
--Write Code:
+- Write Code:
   Write or paste your code into the editor.
--Execute Code:
+- Execute Code:
   Click "Execute Code" to run your code.
--Cancel Execution (Optional):
+- Cancel Execution (Optional):
   If needed, click "Cancel" to stop code execution.
--Review Results:
+- Review Results:
   View the execution status and results.
   
 **Technologies Used**
--React
--Node.js
--Firebase Authentication
--Monaco Editor
+- React
+- Node.js
+- Firebase Authentication
+- Monaco Editor
 
-Contributions Welcome
+**Contributions Welcome**
 We welcome contributions! Feel free to fork the repository and submit pull requests.
 
-License
+**License**
 This project is licensed under the MIT License.
 
 <p align="center">

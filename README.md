@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[logo](https://i.ibb.co/YZWDnbB/icon-2-removebg-preview.png)" alt="RunMeQuick Logo" width="120">
+  <img src="https://i.ibb.co/YZWDnbB/icon-2-removebg-preview.png" alt="RunMeQuick Logo" width="120">
 </p>
 
 # RunMeQuick
